@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:500,700&display=swap');
+
+body, html {height: 100%; scroll-behavior: smooth;}
+body {background-image: linear-gradient(#90EE90, #afeeee); height: 100%; margin: 0; background-repeat: no-repeat; background-attachment: fixed;}
+
+.font-mon {font-family: 'Montserrat', sans-serif;}
+.font-mon-all p, h1 {font-family: 'Montserrat', sans-serif;}
+
+.header-img {background-image: url('./img/header_img.jpg'); height: inherit; background-position: center; background-repeat: no-repeat; background-size: cover;filter: grayscale(50%);}
+
+.text-dark {color: #333!important;}
+.text-light {color: #ffffff!important;}
+
+.background-black-opacity {background-color: rgb(0, 0, 0, 0.8)}
+.parallax {background-attachment: fixed!important;background-position: center!important;background-repeat: no-repeat!important;background-size: cover!important;}
+
+.border-bottom {border-bottom: 0.5px solid #000!important;}
+
+.p-margin-4 p {margin: 4px!important;}
+
+::-webkit-scrollbar{width:8px;}
+::-webkit-scrollbar-track{background:#000;}
+::-webkit-scrollbar-thumb{background:#d4e3de;}
+::-webkit-scrollbar-thumb:hover{background:#2a4139;}
+
+.contact-buttons {text-align: center; margin: auto!important;}
+
+@media (max-width:1200px){
+
+    .who-are-we {padding: 0px!important; margin: auto; text-align:center!important; max-width: 90%;}
+    .who-are-we-img {margin: auto!important; padding-top: 8px; padding-bottom: 8px;}
+    .mobile {text-align:center; display:block; width:100%!important;}
+    .faq-container {width: 100%;}
+    .header-wrap {max-width: none; width: 100%;}
+    .w3-large-res {font-size:px!important}
+    .w3-jumbo-res {font-size: 36px!important}
+    .img-responsive {max-width: 100%; height: auto; width: auto; max-height: 250px;}
+    .contact-buttons button {margin: 3px!important;}
+
+}
+
+@media (min-width:1200px){
+
+    .who-are-we {padding-left: 8px; padding-right: 8px; text-align: left!important; max-width: 80%; margin-left: 16px;}
+    .faq-container {width: 85%;}
+    .header-wrap {max-width: 1000px;}
+    .w3-large-res {font-size:18px!important}
+    .w3-jumbo-res {font-size:64px!important}
+
+}
+
+.sticky {position: fixed;top: 0;}
