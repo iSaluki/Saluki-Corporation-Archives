@@ -1,5 +1,9 @@
 # Saluki-Corporation-Archives
-Archives of old Saluki Corporation projects
+
+Archives of (some) old Saluki Corporation projects. Lists here are not complete.
+
+This repository is an attempt at bringing together the work done by all Saluki Corporation contributors.
+
 
 ## Missing Projects
 
@@ -31,3 +35,26 @@ Archives of old Saluki Corporation projects
 
 - Flagon
 
+## People
+
+### Lead
+
+- Seth Maurice-Brant (https://github.com/iSaluki) *Project Lead*
+- Kfir (https://github.com/ikfir) *Developer Lead*
+
+### Art
+
+- Fedor Kuhhtytski (https://artstation.com/ento_mor)
+
+### Support
+
+- Em.BF
+
+### Web Design
+
+- GHOST (https://ghostdev.xyz/)
+
+### Contractors
+
+- Khurram Ali (https://www.fiverr.com/khurrambangash) *Flutter expert*
+- Murtaza Abbas *Graphics Support*
