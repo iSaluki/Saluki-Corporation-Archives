@@ -76,3 +76,10 @@ This repository is an attempt at bringing together the work done by all Saluki C
 
 - Edamam (https://www.edamam.com/)
   - *Free API access*
+
+
+## Disambiguation
+
+Despite the name, Saluki Corporation was never an incorporated business. It was never intended to be a profitable company, and was more intended as a social organisation.
+In total, we estimate earnings of less than £30 whilst expenditures were significantly higher.
+
