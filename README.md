@@ -30,10 +30,12 @@ This repository is an attempt at bringing together the work done by all Saluki C
 - Firebase
 - DigitalOcean
 
-
-### Search in progress
+### Projects
 
 - Flagon
+  - Discord bot: https://github.com/iSaluki/RPG-Bot
+  - API server: https://github.com/iSaluki/RPG-Bot-API
+  - CDN: *For legal reasons, we cannot make the CDN repository public at this time as it contains copyrighted files.*
 
 ## People
 
