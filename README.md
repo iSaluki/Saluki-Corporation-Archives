@@ -39,12 +39,18 @@ This repository is an attempt at bringing together the work done by all Saluki C
 
 ### Lead
 
-- Seth Maurice-Brant (https://github.com/iSaluki) *Project Lead*
-- Kfir (https://github.com/ikfir) *Developer Lead*
+- Seth Maurice-Brant (https://github.com/iSaluki) 
+  - *Project Lead*
+  - *Developer*
+  - *External Relations*
+- Kfir (https://github.com/ikfir) 
+  - *Developer Lead*
+  - *Technical Consulting*
 
 ### Art
 
 - Fedor Kuhhtytski (https://artstation.com/ento_mor)
+  - *Art lead*
 
 ### Support
 
@@ -54,7 +60,19 @@ This repository is an attempt at bringing together the work done by all Saluki C
 
 - GHOST (https://ghostdev.xyz/)
 
+### Media
+
+- James Rees (https://github.com/chilledtiger)
+
 ### Contractors
 
-- Khurram Ali (https://www.fiverr.com/khurrambangash) *Flutter expert*
-- Murtaza Abbas *Graphics Support*
+- Khurram Ali (https://www.fiverr.com/khurrambangash)
+  - *Flutter expert*
+- Murtaza Abbas 
+  - *Graphics Support / UI*
+
+
+### Special Thanks
+
+- Edamam (https://www.edamam.com/)
+  - *Free API access*
