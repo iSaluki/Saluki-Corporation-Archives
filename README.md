@@ -24,6 +24,7 @@ Archives of old Saluki Corporation projects
 - Git(hub?) organisation
 - Google Play Console
 - Firebase
+- DigitalOcean
 
 
 ### Search in progress
