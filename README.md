@@ -63,7 +63,7 @@ This repository is an attempt at bringing together the work done by all Saluki C
 - Fedor Kuhhtytski (https://artstation.com/ento_mor)
   - *Art lead*
 - HDTin
- - *Art, Concept & Maps*
+   - *Art, Concept & Maps*
 ### Support
 
 - Em.BF
