@@ -2,7 +2,7 @@
 
 Archives of (some) old Saluki Corporation projects. Lists here are not complete.
 
-This repository is an attempt at bringing together the work done by all Saluki Corporation contributors.
+This repository is an attempt at bringing together the work done by all Saluki Corporation contributors. Despite best efforts, this will be a fractured view of our past works. Many of these projects were made using old accounts or systems and are difficult to track down, artefacts are being extracted from old devices and appear from time to time. 
 
 
 ## Missing Projects
@@ -40,6 +40,12 @@ This repository is an attempt at bringing together the work done by all Saluki C
 - Diabetes Helper
   - https://github.com/iSaluki/diabeteshelper
 
+
+### Assorted URLs of Interest
+
+
+- https://play.google.com/store/apps/dev?id=5367188556099068614&gl=US
+
 ## People
 
 ### Lead
@@ -56,7 +62,8 @@ This repository is an attempt at bringing together the work done by all Saluki C
 
 - Fedor Kuhhtytski (https://artstation.com/ento_mor)
   - *Art lead*
-
+- HDTin
+ - *Art, Concept & Maps*
 ### Support
 
 - Em.BF
